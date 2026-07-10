@@ -1,0 +1,196 @@
+{
+  "properties": [
+    {
+      "id": "prop1",
+      "type": "House",
+      "bedrooms": 3,
+      "price": 45000000,
+      "tenure": "Freehold",
+      "description": "Attractive three bedroom semi-detached family home situated in Colombo 7, within walking distance to Royal College and easy access to Colombo city center. The property comprises two receptions, fitted kitchen with breakfast area and pantry. The property also benefits from having a utility room and separate toilet. Upstairs features three bedrooms and a family bathroom. Additional features include tiled floors, ceiling fans throughout, and a well-maintained garden with parking for 2 vehicles.",
+      "location": "Cinnamon Gardens, Colombo 7",
+      "picture": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800",
+      "url": "properties/prop1.html",
+      "added": {
+        "month": "October",
+        "day": 12,
+        "year": 2025
+      }
+    },
+    {
+      "id": "prop2",
+      "type": "Flat",
+      "bedrooms": 2,
+      "price": 28000000,
+      "tenure": "Freehold",
+      "description": "Presented in excellent condition throughout is this two double bedroom, two bathroom apartment in Colombo 3. The modern fitted kitchen is open plan to the living room which features tiled flooring and includes integrated appliances. Large balcony with sea views overlooking Galle Face. Both bedrooms are spacious with built-in wardrobes, and the master bathroom has modern fixtures. The apartment includes allocated parking, 24-hour security, and backup generator. Walking distance to shopping malls, restaurants, and Galle Face Green.",
+      "location": "Marine Drive, Colombo 3",
+      "picture": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800",
+      "url": "properties/prop2.html",
+      "added": {
+        "month": "September",
+        "day": 14,
+        "year": 2025
+      }
+    },
+    {
+      "id": "prop3",
+      "type": "House",
+      "bedrooms": 4,
+      "price": 85000000,
+      "tenure": "Freehold",
+      "description": "Stunning four bedroom detached family home situated in the prestigious area of Havelock Town, Colombo 5. The property features a spacious entrance hall, large living room with wooden flooring, separate dining room, and a modern fitted kitchen with granite countertops. Beautiful landscaped garden with mature trees. Upstairs comprises four good sized bedrooms with built-in wardrobes, master with en-suite bathroom. Additional features include covered parking for 3 vehicles, servant quarters, solar water heating, and CCTV security system. Close to embassies and international schools.",
+      "location": "Havelock Town, Colombo 5",
+      "picture": "https://images.unsplash.com/photo-1605276374104-dee2a0ed3cd6?w=800",
+      "url": "properties/prop3.html",
+      "added": {
+        "month": "November",
+        "day": 8,
+        "year": 2025
+      }
+    },
+    {
+      "id": "prop4",
+      "type": "Flat",
+      "bedrooms": 1,
+      "price": 18500000,
+      "tenure": "Leasehold",
+      "description": "Well presented one bedroom apartment on the 5th floor, ideally located in Bambalapitiya within walking distance to Wellawatta beach and railway station. The property comprises entrance hall, spacious living room with balcony offering partial sea views, modern fitted kitchen with pantry, double bedroom with built-in wardrobe, and contemporary bathroom. Benefits include allocated parking space, lift access, rooftop terrace, and 24-hour security. Perfect for first time buyers or investors. Close to supermarkets, banks, and restaurants.",
+      "location": "Galle Road, Bambalapitiya",
+      "picture": "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=800",
+      "url": "properties/prop4.html",
+      "added": {
+        "month": "August",
+        "day": 22,
+        "year": 2025
+      }
+    },
+    {
+      "id": "prop5",
+      "type": "House",
+      "bedrooms": 5,
+      "price": 115000000,
+      "tenure": "Freehold",
+      "description": "Magnificent five bedroom executive home set on a generous 30 perch plot in the exclusive Kollupitiya area, Colombo 3. This impressive property offers versatile accommodation arranged over three floors including grand entrance hall, three reception rooms, home office, and luxury fitted kitchen with Italian marble countertops opening to private swimming pool. The first floor features master bedroom suite with walk-in closet and en-suite, three further bedrooms with attached bathrooms. Top floor offers fifth bedroom with rooftop terrace and ocean views. Property includes home theatre, wine cellar, elevator, backup generator, and underground parking for 4 vehicles. Walking distance to Galle Face and diplomatic area.",
+      "location": "Kollupitiya, Colombo 3",
+      "picture": "https://images.unsplash.com/photo-1613977257363-707ba9348227?w=800",
+      "url": "properties/prop5.html",
+      "added": {
+        "month": "December",
+        "day": 3,
+        "year": 2025
+      }
+    },
+    {
+      "id": "prop6",
+      "type": "Bungalow",
+      "bedrooms": 2,
+      "price": 52000000,
+      "tenure": "Freehold",
+      "description": "Charming two bedroom single-storey bungalow on an 18 perch corner plot in Nugegoda. The accommodation comprises entrance porch, spacious hallway, generous living room, separate dining area, fitted kitchen with pantry cupboards, two double bedrooms, and family bathroom. The property benefits from high ceilings, ceiling fans throughout, and offers potential for extension. Outside features include well-maintained front and rear gardens with fruit trees, covered car porch for 2 vehicles, and servant's room. Close to Nugegoda town, Keells supermarket, and Colombo South Hospital.",
+      "location": "Nugegoda",
+      "picture": "https://images.unsplash.com/photo-1575517111478-7f6afd0973db?w=800",
+      "url": "properties/prop6.html",
+      "added": {
+        "month": "July",
+        "day": 19,
+        "year": 2025
+      }
+    },
+    {
+      "id": "prop7",
+      "type": "Flat",
+      "bedrooms": 3,
+      "price": 38500000,
+      "tenure": "Leasehold",
+      "description": "Spacious three bedroom penthouse apartment on the 18th floor of this premium development in Fort, Colombo 2. The property offers bright and airy accommodation comprising entrance hall, large living/dining room with floor-to-ceiling windows and panoramic harbour views, modern German kitchen with Bosch appliances, three bedrooms with master en-suite and walk-in closet. Further benefits include smart home automation, concealed AC throughout, wine cooler, infinity pool on rooftop, fully-equipped gym, and 2 covered parking spaces. Building features 24-hour concierge service, backup generator, and security. Walking distance to World Trade Centre and Dutch Hospital shopping precinct.",
+      "location": "Fort, Colombo 2",
+      "picture": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800",
+      "url": "properties/prop7.html",
+      "added": {
+        "month": "October",
+        "day": 28,
+        "year": 2025
+      }
+    },
+    {
+      "id": "prop8",
+      "type": "House",
+      "bedrooms": 3,
+      "price": 65000000,
+      "tenure": "Freehold",
+      "description": "Beautiful three bedroom two-storey house in Dehiwala presented in excellent condition throughout. The property features modern living including spacious entrance hall, large living room with wooden flooring, separate dining room, modern kitchen with breakfast counter and granite worktops opening to rear garden. Ground floor also includes utility room and guest toilet. First floor offers three bedrooms with built-in wardrobes, all with attached bathrooms. The property benefits from rooftop terrace with views, landscaped garden with fruit trees (mango, guava, papaya), covered garage, and CCTV security. Close to Gateway College, Lyceum School, Mt. Lavinia beach, and direct access to Southern Expressway.",
+      "location": "Dehiwala",
+      "picture": "https://images.unsplash.com/photo-1583608205776-bfd35f0d9f83?w=800",
+      "url": "properties/prop8.html",
+      "added": {
+        "month": "September",
+        "day": 5,
+        "year": 2025
+      }
+    },
+    {
+      "id": "prop9",
+      "type": "House",
+      "bedrooms": 4,
+      "price": 95000000,
+      "tenure": "Freehold",
+      "description": "Beautifully presented four bedroom ultra-modern architectural home in Kirulapone, Colombo 5. The accommodation is arranged over two floors plus rooftop and comprises entrance hall, guest cloakroom, spacious living room with floor-to-ceiling windows, separate dining area, and stunning Italian marble kitchen with Bosch appliances and island. The property features infinity swimming pool (40ft x 20ft), BBQ area, and landscaped garden. First floor offers master bedroom suite with walk-in closet and designer bathroom, three further bedrooms all with attached bathrooms. Rooftop entertainment deck with city views. Additional benefits include smart home automation (Alexa), multi-room sound system, solar panels (5kW), EV charging point, and covered parking for 4 vehicles.",
+      "location": "Kirulapone, Colombo 5",
+      "picture": "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800",
+      "url": "properties/prop9.html",
+      "added": {
+        "month": "November",
+        "day": 15,
+        "year": 2025
+      }
+    },
+    {
+      "id": "prop10",
+      "type": "Flat",
+      "bedrooms": 2,
+      "price": 32000000,
+      "tenure": "Leasehold",
+      "description": "Modern two bedroom apartment on the 8th floor of this well-maintained building in Rajagiriya. The property comprises secure entrance with intercom, open plan living room/dining area with balcony, modern kitchen with integrated appliances and breakfast bar, two double bedrooms with built-in wardrobes, and stylish bathroom with modern fixtures. Benefits include vitrified tile flooring, ceiling fans and AC points in all rooms, allocated parking space, backup generator, and 24-hour security. Ideally situated close to Parliament Road, Kotte Raja Maha Viharaya, and easy access to Colombo city. Walking distance to supermarkets, banks, and restaurants.",
+      "location": "Rajagiriya",
+      "picture": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800",
+      "url": "properties/prop10.html",
+      "added": {
+        "month": "August",
+        "day": 11,
+        "year": 2025
+      }
+    },
+    {
+      "id": "prop11",
+      "type": "House",
+      "bedrooms": 4,
+      "price": 72000000,
+      "tenure": "Freehold",
+      "description": "Impressive four bedroom heritage colonial house in Wellawatte, Colombo 6 offering versatile and well-proportioned accommodation throughout. This 1955 property has been tastefully renovated in 2024 maintaining original architectural features. The property features entrance hall with high ceilings (14 feet), spacious living room with original teak doors, separate dining room, updated kitchen with modern appliances and island, and wide veranda (600 sq ft). To the first floor are four bedrooms, master with fitted wardrobes, and bathrooms with modern fixtures. Further benefits include polished cement floors, new electrical wiring and copper plumbing, large rear garden (1,500 sq ft) with mature mango and breadfruit trees, servant quarters, and covered parking for 3 vehicles. Walking distance to Galle Road, beaches, and temples.",
+      "location": "Wellawatte, Colombo 6",
+      "picture": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800",
+      "url": "properties/prop11.html",
+      "added": {
+        "month": "October",
+        "day": 1,
+        "year": 2025
+      }
+    },
+    {
+      "id": "prop12",
+      "type": "House",
+      "bedrooms": 3,
+      "price": 38000000,
+      "tenure": "Freehold",
+      "description": "Attractive three bedroom single-storey house on 12 perches in peaceful Kottawa suburb. The property comprises entrance hall, spacious living/dining area with good natural ventilation, modern pantry with cupboards, and ground floor toilet. All three bedrooms with windows and ceiling fans. The property benefits from ceramic tile flooring throughout, security grills fitted, small front garden, backyard suitable for extension, and covered parking for 1 vehicle. Municipal water supply, single phase electricity, and quiet residential lane location. Close to Kottawa junction, walking distance to schools, supermarkets, and easy access to Southern Expressway. Perfect starter home or investment property with great value for money.",
+      "location": "Kottawa",
+      "picture": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800",
+      "url": "properties/prop12.html",
+      "added": {
+        "month": "September",
+        "day": 20,
+        "year": 2025
+      }
+    }
+  ]
+}
